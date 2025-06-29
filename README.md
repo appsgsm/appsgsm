@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @appsgsm
-- 👀 I’m interested in mobile apps
-- 🌱 I’m currently learning mobile
-- 💞️ I’m looking to collaborate on mobile projcts
+- 👋 Hi, I’m gisele
+- 👀 I’m interested in technologies 
+- 🌱 I’m currently learning llm
+- 💞️ I’m looking to collaborate on ia projcts
 
 
 <!---
