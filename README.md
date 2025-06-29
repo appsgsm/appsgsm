@@ -10,7 +10,7 @@ Data Analysis & Visualization: Turning raw data into actionable insights with Py
 
 Artificial Intelligence: Implementing machine learning models, from classic algorithms to deep learning applications.
 
-Software Development: Building robust and scalable applications using Python.
+Software Development: Building robust and scalable applications using Python, Javascript or C#.
 
 Large Language Models (LLM): I'm currently diving deep into the world of LLMs, learning how to leverage their power for various applications.
 
